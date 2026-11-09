@@ -1,3 +1,5 @@
 *.user
 *.autosave
 build-*/
+4.lock
+4.session
